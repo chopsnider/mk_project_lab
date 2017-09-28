@@ -1,0 +1,3 @@
+Today is Thursday
+Tomorrow is Friday
+Saturday is two days from now
